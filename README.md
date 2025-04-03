@@ -16,7 +16,7 @@ This project focuses on predicting breast cancer recurrence events using machine
 6. [Models](#models)
 7. [Evaluation Metrics](#evaluation-metrics)
 8. [Results](#results)
-9. [Contributing](#contributing)
+10. [Author](#author)
 
 ---
 
@@ -165,4 +165,7 @@ Contributions are welcome! To contribute:
 5. **Open a pull request**.
 
 Please ensure your code follows the project's coding standards and includes appropriate documentation.
+
+## Author 
+Samuel Aemro Melese - samuelaemrowork12@gmail.com 
 
